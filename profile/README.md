@@ -1,7 +1,4 @@
 <div align="center">
-
-# SMALLYGON
-
 ### `> WARNING: No useful code was found in this organization.`
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
