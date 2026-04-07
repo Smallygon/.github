@@ -1,5 +1,8 @@
 <div align="center">
-# `> WARNING: No useful code was found in this organization.`
+
+### `> WARNING: No useful code was found in this organization.`
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"/>
 ---
 
 **Nothing to see here.** Just random lines of code, mass amounts of coffee, and questionable life decisions at 3AM.
@@ -39,7 +42,7 @@ HAI 1.3
   I HAS A coffee_cups ITZ 0
   I HAS A motivation
 
-  VISIBLE "WELCOM 2 SMALLYGON"
+  VISIBLE "WELCOM 2 DA VOID"
   VISIBLE "----------------------------"
   VISIBLE "INITIALAIZIN VERY IMPORTNT SYSTEMZ..."
   VISIBLE ""
